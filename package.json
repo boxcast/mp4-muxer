@@ -1,6 +1,6 @@
 {
-  "name": "mp4-muxer",
-  "version": "4.2.0",
+  "name": "@boxcast/mp4-muxer",
+  "version": "5.0.0",
   "description": "MP4 multiplexer in pure TypeScript with support for WebCodecs API, video & audio.",
   "main": "./build/mp4-muxer.js",
   "module": "./build/mp4-muxer.mjs",
@@ -25,14 +25,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vanilagy/mp4-muxer.git"
+    "url": "git+https://github.com/boxcast/mp4-muxer.git"
   },
   "author": "Vanilagy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Vanilagy/mp4-muxer/issues"
+    "url": "https://github.com/boxcast/mp4-muxer/issues"
   },
-  "homepage": "https://github.com/Vanilagy/mp4-muxer#readme",
+  "homepage": "https://github.com/boxcast/mp4-muxer#readme",
   "dependencies": {
     "@types/dom-webcodecs": "^0.1.6",
     "@types/wicg-file-system-access": "^2020.9.5"
